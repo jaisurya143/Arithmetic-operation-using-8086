@@ -224,7 +224,8 @@ END
 
 ## OUTPUT FROM MASM SOFTWARE
 <img width="627" height="386" alt="image" src="https://github.com/user-attachments/assets/311f7225-a9d2-4282-b96a-354916e9ce70" />
-![WhatsApp Image 2025-09-09 at 19 29 47_44b3f16c](https://github.com/user-attachments/assets/9f586023-68a5-440a-ac49-b1b8458e1b18)
+![WhatsApp Image 2025-09-09 at 19 29 47_cced8bce](https://github.com/user-attachments/assets/763d8e14-0063-47eb-8740-4beb1d27a71e)
+
 
 
 
